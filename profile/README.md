@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+LightBite, aims to help the local in Malaysia to get their light meals easier.
 <!--
 
 **Here are some ideas to get you started:**
